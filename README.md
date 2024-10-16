@@ -1,6 +1,10 @@
 ## Hey! ✌️
 
-##📌 About Me 
+## 📌 About Me 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <!--
 **daquantt/daquantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
