@@ -9,6 +9,17 @@
   <a href="https://twitter.com/dwayneaquan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+### ⚙️ GitHub Statistics
+<br/>
+<p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=daquantt&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=daquantt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daquantt&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
+
 <!--
 **daquantt/daquantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
