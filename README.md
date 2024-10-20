@@ -1,12 +1,10 @@
 ## Hi I'm Dwayne 🙋‍♂️
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dwayneaquan@gmail.com)](mailto:dwayneaquan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwayneaquan/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwayneaquan/)
-<p align="center">
-  
-  <a href="https://www.instagram.com/dwayneaquan/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dwayneaquan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/dwayneaquan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/dwayneaquan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dwayneaquan@gmail.com)
+
+Welcome to my profile! I'm a student web developer, transitioning from an accountant of 15 years. I code in my spare time and I'm currently dabbling in React. Check out my work in the repos. Thanks for visiting and I'd love to connect!
 
 ## 📌 About Me 
 🌐 Web development student \
