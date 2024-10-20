@@ -23,6 +23,9 @@ Welcome to my profile! I'm a student web developer, transitioning from an accoun
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)\
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 
 ### ⚙️ GitHub Statistics
