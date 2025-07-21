@@ -4,10 +4,10 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/dwayneaquan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dwayneaquan@gmail.com)
 
-Welcome to my profile! I'm a student web developer, transitioning from an accountant of 15 years. I code in my spare time and I'm currently dabbling in React. Check out my work in the repos. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a recent web design and development graduate with 15 years of progressive accounting experience in the banking industry. I code in my spare time and I'm currently dabbling in React. Check out my work in the repos. Thanks for visiting and I'd love to connect!
 
 ## 📌 About Me 
-🌐 Web development student \
+🌐 Web design and development graduate \
 🧾 Accounting background (15 years) \
 ⚽ Football player and fan
 
